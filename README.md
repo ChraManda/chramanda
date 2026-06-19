@@ -9,7 +9,7 @@ Still learning, always shipping.
 - 🌱 Getting deeper into AI engineering and full-stack development  
 - 💬 Ask me about Next.js, React, TypeScript, or Supabase
 - 📫 Reach me at chradoreng3@gmail.com
-- ⚡ Coffee drinker, volleyball player, guitar in progress
+- ⚡ Coffee drinker, volleyball player, guitar, fitness enthusiast
 
 ---
 
