@@ -12,6 +12,8 @@ Still learning, always shipping.
 - ⚡ Coffee drinker, volleyball player, guitar, fitness enthusiast
 
 ---
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/chramanda1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chradoreng3@gmail.com) 
 
 ## Tech I work with
 
