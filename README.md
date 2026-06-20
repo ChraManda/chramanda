@@ -8,12 +8,13 @@ Still learning, always shipping.
 - 🔭 Currently building an AI-powered web app for local businesses
 - 🌱 Getting deeper into AI engineering and full-stack development  
 - 💬 Ask me about Next.js, React, TypeScript, or Supabase
-- 📫 Reach me at chradoreng3@gmail.com
 - ⚡ Coffee drinker, volleyball player, guitar, fitness enthusiast
 
 ---
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/chramanda1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chradoreng3@gmail.com) 
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-chra__manda01-E4405F?style=social&logo=instagram)](https://www.instagram.com/chra_manda01/)
+[![Facebook](https://img.shields.io/badge/Facebook-chramanda1-1877F2?style=social&logo=facebook)](https://www.facebook.com/chramanda1)
+[![Email](https://img.shields.io/badge/Email-chradoreng3@gmail.com-D14836?style=social&logo=gmail)](mailto:chradoreng3@gmail.com)
 
 ## Tech I work with
 
