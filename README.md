@@ -27,5 +27,7 @@ Still learning, always shipping.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ChraManda&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![](https://github-readme-stats.shion.dev/api?username=ChraManda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ChraManda&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ChraManda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
