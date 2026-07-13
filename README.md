@@ -1,7 +1,10 @@
 # Hey, I'm Chra 👋
 
-I build web apps — lately with AI baked in.
-Still learning, always shipping.
+I build web apps, websites also trying new technologies, and
+AI features that saves your precious time.
+I'm always learning, but not stopping deploying.
+
+Fun Fact: The best is the enemy of Good ~Voltaire
 
 ---
 
